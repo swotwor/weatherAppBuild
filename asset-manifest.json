@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dfdc543.css",
-    "main.js": "/static/js/main.3bb992be.js",
-    "static/media/humidity.svg": "/static/media/humidity.351b7fd21e3ad9ff60fc.svg",
-    "static/media/windsock.svg": "/static/media/windsock.b761528ad3d1542feb6a.svg",
-    "static/media/celsius.svg": "/static/media/celsius.e06a9dc80356170d57df.svg",
-    "static/media/sunrise.svg": "/static/media/sunrise.4ee5d8b0c507d6317734.svg",
-    "static/media/sunset.svg": "/static/media/sunset.d94b1f50eb63d66b6f28.svg",
-    "static/media/thermometer.svg": "/static/media/thermometer.b6afe986ff21e7553f51.svg",
-    "index.html": "/index.html",
-    "main.5dfdc543.css.map": "/static/css/main.5dfdc543.css.map",
-    "main.3bb992be.js.map": "/static/js/main.3bb992be.js.map"
+    "main.css": "/weatherAppBuild/static/css/main.b6dd4403.css",
+    "main.js": "/weatherAppBuild/static/js/main.3bb992be.js",
+    "static/media/humidity.svg": "/weatherAppBuild/static/media/humidity.351b7fd21e3ad9ff60fc.svg",
+    "static/media/windsock.svg": "/weatherAppBuild/static/media/windsock.b761528ad3d1542feb6a.svg",
+    "static/media/celsius.svg": "/weatherAppBuild/static/media/celsius.e06a9dc80356170d57df.svg",
+    "static/media/sunrise.svg": "/weatherAppBuild/static/media/sunrise.4ee5d8b0c507d6317734.svg",
+    "static/media/sunset.svg": "/weatherAppBuild/static/media/sunset.d94b1f50eb63d66b6f28.svg",
+    "static/media/thermometer.svg": "/weatherAppBuild/static/media/thermometer.b6afe986ff21e7553f51.svg",
+    "index.html": "/weatherAppBuild/index.html",
+    "main.b6dd4403.css.map": "/weatherAppBuild/static/css/main.b6dd4403.css.map",
+    "main.3bb992be.js.map": "/weatherAppBuild/static/js/main.3bb992be.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dfdc543.css",
+    "static/css/main.b6dd4403.css",
     "static/js/main.3bb992be.js"
   ]
 }
